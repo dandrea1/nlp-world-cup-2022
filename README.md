@@ -14,7 +14,10 @@ https://www.kaggle.com/datasets/tirendazacademy/fifa-world-cup-2022-tweets
 Conducted some exploratory data analysis to see interesting insights into the World Cup 2022 tweets. 
 
 Created  a nlp classification model to predict if a tweet on the first day of the world cup 2022 were positive, negative, or neutral sentiment. Accuracy of the model was 66%. 
+
+
 <img width="432" alt="sentiment" src="https://user-images.githubusercontent.com/47754826/210578097-f54047ca-0dec-47bd-9f1f-7462ed40af08.PNG">
+
 <img width="434" alt="tweets_over_time" src="https://user-images.githubusercontent.com/47754826/210578161-3b4e8bcc-efc5-4b1b-8a2d-e276bf66d22b.PNG">
 
 Added some code so you can invent your own tweet and have my model predict your sentiment about the world cup! 
