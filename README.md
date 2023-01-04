@@ -8,7 +8,9 @@ The dataset was created using the Snscrape and the cardiffnlp/twitter-roberta-ba
 
 https://www.kaggle.com/datasets/tirendazacademy/fifa-world-cup-2022-tweets
 
-### Project Summaru 
+<img width="666" alt="word_cloud" src="https://user-images.githubusercontent.com/47754826/210577959-38852133-01fa-4a27-a23d-0decd41a5731.PNG">
+
+### Project Summary 
 Conducted some exploratory data analysis to see interesting insights into the World Cup 2022 tweets. 
 
 Created  a nlp classification model to predict if a tweet on the first day of the world cup 2022 were positive, negative, or neutral sentiment. Accuracy of the model was 66%. 
